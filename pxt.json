@@ -53,7 +53,16 @@
         "_locales/en/45-1_pflanzenstation.md",
         "_locales/en/49-1_schaetzspiel.md",
         "_locales/en/50-2_personenzaehler.md",
-        "_locales/en/54_luftqualitaet.md"
+        "_locales/en/54_luftqualitaet.md",
+        "static/images/variable_tempo.png",
+        "static/images/variable_licht.png",
+        "static/images/variable_zufall.png",
+        "static/images/transparent.png",
+        "static/images/transparent_s.png",
+        "static/images/knopf_a_b.png",
+        "static/images/funktion_erstellen.png",
+        "static/images/duplizieren.png",
+        "static/images/dice_animation.gif"
     ],
     "testFiles": [
         "test.ts"

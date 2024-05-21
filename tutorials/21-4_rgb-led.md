@@ -10,7 +10,7 @@ Erstelle eine ``||variables.Variable||`` und benenne sie „Tempo“.
 
 ```
 ```
-![](https://calliope.cc/tutorials/variable_tempo.png)
+![](static/images/variable_tempo.png)
 
 ## Tempo einstellen
 Verwende den Block ``||variables.setze Tempo auf||`` aus der Kategorie ``||variables.Variablen||``, um die Variable Tempo auf den Wert `100` zu setzen. Platziere den Block ganz zu anfangs in der ``||basic.Start Funktion||``.
