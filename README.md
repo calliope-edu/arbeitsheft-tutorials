@@ -26,6 +26,6 @@ https://makecode.calliope.cc/#tutorial:https://github.com/calliope-edu/arbeitshe
 - "tutorials/50-2_personenzaehler.md",
 - "tutorials/54_luftqualitaet.md",
 
-
+<!-- 
 https://makecode.calliope.cc/#tutorial:https://github.com/jasperp92/makecode_tutorials/tutorials/lichtsirene
-https://github.com/jasperp92/makecode_tutorials/blob/master/pxt.json
+https://github.com/jasperp92/makecode_tutorials/blob/master/pxt.json -->
