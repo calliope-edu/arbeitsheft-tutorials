@@ -1,0 +1,65 @@
+{
+    "name": "arbeitsheft-tutorials",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "tutorials/18-4_led-matrix.md",
+        "tutorials/20-2_raketenstart.md",
+        "tutorials/21-4_rgb-led.md",
+        "tutorials/23-4_fitness.md",
+        "tutorials/24-3_knoepfe.md"
+        "tutorials/27-1_klavier.md",
+        "tutorials/33-4_licht.md",
+        "tutorials/35-1_smart-licht.md",
+        "tutorials/38-1_thermometer.md",
+        "tutorials/41-3_wuerfel.md",
+        "tutorials/42-2_orakel.md",
+        "tutorials/45-1_pflanzenstation.md",
+        "tutorials/49-1_schaetzspiel.md",
+        "tutorials/50-2_personenzaehler.md",
+        "tutorials/54_luftqualitaet.md",
+        "tutorials_solution/18-4_led-matrix.md",
+        "tutorials_solution/20-2_raketenstart.md",
+        "tutorials_solution/21-4_rgb-led.md",
+        "tutorials_solution/23-4_fitness.md",
+        "tutorials_solution/24-3_knoepfe.md"
+        "tutorials_solution/27-1_klavier.md",
+        "tutorials_solution/33-4_licht.md",
+        "tutorials_solution/35-1_smart-licht.md",
+        "tutorials_solution/38-1_thermometer.md",
+        "tutorials_solution/41-3_wuerfel.md",
+        "tutorials_solution/42-2_orakel.md",
+        "tutorials_solution/45-1_pflanzenstation.md",
+        "tutorials_solution/49-1_schaetzspiel.md",
+        "tutorials_solution/50-2_personenzaehler.md",
+        "tutorials_solution/54_luftqualitaet.md",
+        "tutorials/18-4_led-matrix.md",
+        "_locales/en/20-2_raketenstart.md",
+        "_locales/en/21-4_rgb-led.md",
+        "_locales/en/23-4_fitness.md",
+        "_locales/en/24-3_knoepfe.md"
+        "_locales/en/27-1_klavier.md",
+        "_locales/en/33-4_licht.md",
+        "_locales/en/35-1_smart-licht.md",
+        "_locales/en/38-1_thermometer.md",
+        "_locales/en/41-3_wuerfel.md",
+        "_locales/en/42-2_orakel.md",
+        "_locales/en/45-1_pflanzenstation.md",
+        "_locales/en/49-1_schaetzspiel.md",
+        "_locales/en/50-2_personenzaehler.md",
+        "_locales/en/54_luftqualitaet.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "tsprj"
+}
