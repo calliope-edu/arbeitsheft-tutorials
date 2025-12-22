@@ -1,5 +1,9 @@
  # 54_Luftqualität
 
+```package
+v3
+```
+
 ## Aufgabe @showdialog
 Die Luft, die dich umgibt, spielt eine große Rolle für dein Wohlbefinden.
 Programmiere eine Anzeige, die dich informiert, wenn es zu heiß wird, die Luftfeuchtigkeit
