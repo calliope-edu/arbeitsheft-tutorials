@@ -1,5 +1,8 @@
 # 24 3_4_Knöpfe
 
+```package
+v3
+```
 
 ## Aufgaben @showdialog
 Lasse einen **Smiley** erscheinen, wenn der **Knopf A** gedrückt wird und einen **traurigen Smiley**, wenn der **Knopf B** gedrückt wird. Füge beiden Symbolen noch eine passende Farbe hinzu.
