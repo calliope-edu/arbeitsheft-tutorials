@@ -1,5 +1,9 @@
 # 41 3_Würfel
 
+```package
+v3
+```
+
 ## Aufgabe @showdialog
 Verwandle den Calliope mini in einen Würfel.
 Wird der Calliope mini geschüttelt, lasse eine zufällige Zahl auf der LED-Matrix erscheinen.
