@@ -1,5 +1,8 @@
 # 33 4_Licht
 
+```package
+v3
+```
 
 ## Aufgabe @showdialog
 Schreibe ein Programm, das den gemessenen Lichtwert bei ausgeschalteter LED-Matrix in eine Variable speichert und lasse dir den gespeicherten Wert danach auf der LED-Matrix anzeigen.
