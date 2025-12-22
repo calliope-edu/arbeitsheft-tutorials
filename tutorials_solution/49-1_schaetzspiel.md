@@ -1,5 +1,8 @@
 # 49 1_Schätzspiel
 
+```package
+v3
+```
 
 ## Schätzspiel @showdialog
 Programmiere ein Schätzspiel, das die Entfernung zwischen zwei Objekten misst. Der
