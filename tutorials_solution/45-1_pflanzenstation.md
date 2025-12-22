@@ -1,5 +1,8 @@
 # 45 1_Pflanzenstation
 
+```package
+v3
+```
 
 ## Pflanzenstation @showdialog
 Programmiere eine Pfanzenstation, die dir hilft, die Pflanzen im Klassenzimmer bestmöglich zu versorgen. Pflanzen brauchen **Wasser**, **Sonnenlicht** und auch die richtige
