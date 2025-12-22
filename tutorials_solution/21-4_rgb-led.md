@@ -1,5 +1,8 @@
 # 21 4_RGB-LED
 
+```package
+v3
+```
 
 ## Aufgabe  @showdialog
 Programmiere einen Regenbogen. Verwende dazu folgende Farben:
