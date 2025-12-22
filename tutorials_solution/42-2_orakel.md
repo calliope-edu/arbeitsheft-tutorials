@@ -1,5 +1,8 @@
 # 42 2 (Variante)_Orakel
 
+```package
+v3
+```
 
 ## Aufgabe @showdialog
 Gewinnen wir das nächste Hockeyturnier, ist Flynn verliebt in mich oder darf ich heute Abend am Computer spielen? Manche Antworten musst du sofort wissen.<br>
