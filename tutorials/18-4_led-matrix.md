@@ -1,5 +1,9 @@
 # 18.4-5 Raketenstart
 
+```package
+v3
+```
+
 ## Aufgabe @showdialog
 Lasse eine Rakete auf der LED-Matrix steigen. Du musst wie ein Trickfilmprofi in Einzelbildern denken.
 
