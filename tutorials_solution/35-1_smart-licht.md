@@ -1,5 +1,8 @@
 # 35 1_Smart-Licht
 
+```package
+v3
+```
 
 ## Aufgabe @showdialog
 Schreibe ein Programm für eine Lampe, die durch das Klatschen in die Hände eingeschaltet und nach 5 Sekunden automatisch wieder ausgeschaltet wird.👏
