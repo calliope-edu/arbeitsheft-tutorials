@@ -1,5 +1,8 @@
 # 27 1_Klavier
 
+```package
+v3
+```
 
 ## Aufgabe @showdialog
 Entwickle ein Calliope mini Klavier, das beim Berühren der Touch-Pins 0-3 jeweils eine unterschiedliche Note abspielt, die RGB-LED in verschiedenen Farben leuchten lässt und den Notennamen auf der LED-Matrix anzeigt.
