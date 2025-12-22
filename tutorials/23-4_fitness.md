@@ -1,5 +1,8 @@
 # 23 4_Fitness
 
+```package
+v3
+```
 
 ## Aufgabe @showdialog
 Erstelle ein Fitnessprogramm! Definiere 5 Farben und ordne jeder Farbe eine Fitnessübung zu - zum Beispiel Kniebeugen, Strecksprung, Hampelmann etc.
