@@ -1,5 +1,8 @@
 # 38 1b_Thermometer
 
+```package
+v3
+```
 
 ## Aufgabe @showdialog
 Schreibe ein Programm für ein Thermometer, das ein Hitzefrei-Signal ausgibt, wenn eine Temperatur von 30°C überschritten ist.🍦 
