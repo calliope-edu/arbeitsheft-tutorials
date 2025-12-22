@@ -1,5 +1,8 @@
 # 20 2_Raketenstart
 
+```package
+v3
+```
 
 ## Aufgabe @showdialog
 Verwende eine Variable, um die Geschwindigkeit deiner Animation zu bestimmen und bequem anzupassen, anstatt immer wieder in jedem Pause-Block die Geschwindigkeit zu ändern.
