@@ -1,5 +1,8 @@
 # 50 2_Personenzähler
 
+```package
+v3
+```
 
 ## Aufgabe @showdialog
 Ist die Klasse vollzählig?
