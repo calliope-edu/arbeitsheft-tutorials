@@ -5,7 +5,7 @@ v3
 grove=github:calliope-edu/pxt-grove#v0.9.5
 ```
 
-## Pflanzenstation TEST @showdialog
+## Pflanzenstation @showdialog
 Programmiere eine Pflanzenstation, die dir hilft, die Pflanzen im Klassenzimmer bestmöglich zu versorgen. Pflanzen brauchen **Wasser**, **Sonnenlicht** und auch die richtige
 **Temperatur** spielt eine wichtige Rolle. 
 
