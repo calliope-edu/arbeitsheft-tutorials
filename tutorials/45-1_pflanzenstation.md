@@ -6,7 +6,7 @@ grove=github:calliope-edu/pxt-grove
 ```
 
 ## Pflanzenstation @showdialog
-Programmiere eine Pfanzenstation, die dir hilft, die Pflanzen im Klassenzimmer bestmöglich zu versorgen. Pflanzen brauchen **Wasser**, **Sonnenlicht** und auch die richtige
+Programmiere eine Pflanzenstation, die dir hilft, die Pflanzen im Klassenzimmer bestmöglich zu versorgen. Pflanzen brauchen **Wasser**, **Sonnenlicht** und auch die richtige
 **Temperatur** spielt eine wichtige Rolle. 
 
 ## Temperatur messen @showdialog
@@ -28,7 +28,7 @@ Füge einen weiteren ``||input.wenn Knopf A geklickt||`` Block hinzu, um die gem
 ## Messwerte vergleichen
 Füge als Bedingung ``||input.Lichtstärke||`` > 50 ein, indem du einen ``||logic.logischen Vergleich||`` auswählst und dort die ``||input.Lichtstärke||`` mit der Zahl ``50`` vergleichst.
 ## Ausgabe definieren
-Ist es zu dunkel, lasse eine Sonne auf der LED-Matrix erscheinen. Ist es hell genug, lasse ein Häkchen erscheinen. Verwenden den ``||basic.zeige Symbol||`` Block, um die Symbole auf der LED-Matrix anzuzeigen.
+Ist es zu dunkel, lasse eine Sonne auf der LED-Matrix erscheinen. Ist es hell genug, lasse ein Häkchen erscheinen. Verwende den ``||basic.zeige Symbol||`` Block, um die Symbole auf der LED-Matrix anzuzeigen.
 
 ## Bodenfeuchtigkeit messen @showdialog
 Prüfe dauerhaft: Ist die Erde zu trocken, lasse die RGB-LED rot leuchten, ansonsten lasse die RGB-LED grün leuchten. Verwende den Feuchtigkeitssensor und schließe ihn an den rechten Grove-Port A1 an.
