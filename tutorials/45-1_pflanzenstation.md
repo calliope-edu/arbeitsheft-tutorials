@@ -1,7 +1,6 @@
 # 45 1_Pflanzenstation
 
 ```package
-v3
 grove=github:calliope-edu/pxt-grove
 ```
 
