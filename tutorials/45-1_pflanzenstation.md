@@ -1,7 +1,7 @@
 # 45 1_Pflanzenstation
 
 ```package
-grove=github:calliope-edu/pxt-grove
+grove=github:calliope-edu/pxt-grove#v0.9.5
 ```
 
 ## Pflanzenstation @showdialog
