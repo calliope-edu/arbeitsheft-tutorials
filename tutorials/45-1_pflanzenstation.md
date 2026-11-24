@@ -2,6 +2,7 @@
 
 ```package
 v3
+grove=github:calliope-edu/pxt-grove
 ```
 
 ## Pflanzenstation @showdialog
@@ -51,12 +52,6 @@ Ist die Erde feucht, wird die Farbe auf grün gesetzt. Ist sie trocken auf rot. 
 
 ## Geschafft! 🎉
 Klicke auf ``|Herunterladen|``, um dein Programm auf deinen Calliope mini zu übertragen.
-
-
-```package
-grove=github:calliope-edu/pxt-grove
-```
-
 
 
 
